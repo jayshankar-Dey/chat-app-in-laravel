@@ -1,0 +1,1 @@
+<?php /**PATH D:\laravel\my_potfolio\resources\views/home.blade.php ENDPATH**/ ?>
